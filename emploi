@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="<fr">
+<head>
+<meta charset="UTF-8">
+<title>Emploi du Temps IAIL S2</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f7fa;
+    margin: 0;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+    background: #e8eef5;
+}
+
+.header img {
+    width: 80px;
+}
+
+.header h2 {
+    margin: 10px 0 0;
+    color: #2c3e50;
+}
+
+.header p {
+    margin: 5px;
+    color: #555;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 20px auto;
+    width: 95%;
+    background: white;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background: #dfe6ed;
+}
+
+tr:nth-child(even) {
+    background: #f9fbfc;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="header">
+    <img src="https://emploi24.ma/wp-content/uploads/2022/07/Concours-de-recrutement-Universite-Ibn-Zohr-2022.webp">
+    <h2>Emploi du Temps</h2>
+    <p>Filière : IAIL - Semestre 2</p>
+</div>
+
+<table>
+<tr>
+    <th>Jour</th>
+    <th>09h-10h30</th>
+    <th>10h30-12h</th>
+    <th>12h15-13h45</th>
+    <th>13h45-15h15</th>
+    <th>15h30-17h</th>
+    <th>17h-18h30</th>
+</tr>
+
+<tr>
+    <td>Lundi</td>
+    <td>
+        Programmation<br>
+        Python 2<br>
+        Cours - Amphi A<br>
+        <a href="message_prof.html">Prof M.Laraqui</a>
+    </td>
+    <td>
+        Algorithmique Et<br>
+        Programmation C2<br>
+        Cours - Amphi A<br>
+        <a href="message_prof.html">Prof H.Oudani</a>
+    <td>
+    <td>
+        Algorithmes Et<br>
+        Programmation C 2<br>
+        <span style="color: rgb(187, 36, 36);"> Td/Tp Grp1 - Salle P2</span><br>
+        <a href="message_prof.html">Prof H.Oudani</a>
+    </td>
+    <td>
+        Programmation<br>
+        Python 2<br>
+        <span style="color: rgb(187, 36, 36);">Td/Tp Grp3 - Salle P2</span><br>
+        <a href="message_prof.html">Prof A.Elouardi</a>
+    </td>
+    <td>
+        Programmation<br>
+        Python 2<br>
+        <span style="color: rgb(187, 36, 36);">Td/Tp Grp2 - Salle P2</span><br>
+        <a href="message_prof.html">Prof A.Elouardi</a>
+    </td>
+</tr>
+
+<tr>
+    <td>Mardi</td>
+    <td>
+        Programmation<br>
+        Python 2<br>
+        <span style="color: rgb(187, 36, 36);">Td/Tp Grp1 - Salle P2</span><br>
+        <a href="message_prof.html">Prof A.Elouardi</a>
+    </td>
+    <td></td>
+    <td>
+        Digital Skills &<br>
+        Intelligence Artificielle<br>
+        Cours - Amphi A<br>
+        <a href="message_prof.html">Prof A.Elouardi</a>
+    </td>
+    <td>
+        Digital Skills &<br>
+        Intelligence Artificielle<br>
+        Td/Tp - Amphi A<br>
+        <a href="message_prof.html">Prof A.Elouardi</a>
+    </td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>Mercredi</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+        Algorithmes Et<br>
+        Programmation C 2<br>
+        <span style="color: rgb(187, 36, 36);"> Td/Tp Grp2 - Salle P2</span><br>
+        <a href="message_prof.html">Prof H.Oudani</a>
+    </td>
+    <td>
+        Algèbre 2<br>
+        Td - Amphi A<br>
+        <a href="message_prof.html">Prof I.Boutaayamo</a>
+    </td>
+    <td>
+        Analyse 2<br>
+        Td - Amphi A<br>
+        <a href="message_prof.html">Prof A.Hadri</a>
+    </td>
+</tr>
+
+<tr>
+    <td>Jeudi</td>
+    <td>
+        Traitement du Signal<br>
+        Cours - Amphi A<br>
+        <a href="message_prof.html">Prof H.Azzahhafi</a>
+    </td>
+    <td>
+        Traitement Du Signal<br>
+        Td - Amphi A<br>
+        <a href="message_prof.html">Prof H.Azzahhafi</a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>Vendredi</td>
+    <td>
+        Algèbre 2<br>
+        Cours - Amphi C<br>
+        <a href="message_prof.html">Prof I.Boutaayamo</a>
+    </td>
+    <td>
+        Analyse 2<br>
+        Cours - Amphi C<br>
+        <a href="message_prof.html">Prof A.Hadri</a>
+    </td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+</tr>
+
+<tr>
+    <td>Samedi</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>
+        Programmation<br>
+        Web 1<br>
+        Cours - Salle P1<br>
+        <a href="message_prof.html">Prof K.Omari</a>
+    </td>
+    <td>
+        Programmation<br>
+        Web 1<br>
+        <span style="color: rgb(187, 36, 36);"> Td/Tp - Salle P2 </span><br>
+        <a href="message_prof.html">Prof K.Omari</a>
+    </td>
+</tr>
+
+</table>
+
+</body>
+</html>
